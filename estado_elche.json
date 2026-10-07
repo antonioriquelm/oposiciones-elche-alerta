@@ -1,0 +1,362 @@
+{
+  "inspector/a de rentas 1 o.l.": {
+    "nombre": "INSPECTOR/A DE RENTAS 1 O.L.",
+    "tipo": "C1",
+    "estado": "Pendiente apertura plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/inspector-a-de-rentas-1-o-l/"
+  },
+  "inspector/a policia local 2 c.o.l.": {
+    "nombre": "INSPECTOR/A POLICIA LOCAL 2 C.O.L.",
+    "tipo": "A2",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/inspector-a-policia-local-2-c-o-l/"
+  },
+  "inspector/a policia local 1 c.o.-p.i. interadministrativo movilidad": {
+    "nombre": "INSPECTOR/A POLICIA LOCAL 1 C.O.-P.I. INTERADMINISTRATIVO MOVILIDAD",
+    "tipo": "A2",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/inspector-a-policia-local-1-p-i-interadministrativa-con-movilidad"
+  },
+  "inspector/a policia local 1 c.o.-p.i.": {
+    "nombre": "INSPECTOR/A POLICIA LOCAL 1 C.O.-P.I.",
+    "tipo": "A2",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/inspector-a-policia-local-1-p-i/"
+  },
+  "tecnico/a especialista de educacion infantil 10 c.o.-p.i.v.": {
+    "nombre": "TECNICO/A ESPECIALISTA DE EDUCACION INFANTIL 10 C.O.-P.I.V.",
+    "tipo": "B",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnico-a-especialista-de-educacion-infantil-10-c-o-p-i-v"
+  },
+  "inspector/a de mantenimiento 1 o.l.": {
+    "nombre": "INSPECTOR/A DE MANTENIMIENTO 1 O.L.",
+    "tipo": "C1",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/inspector-a-de-mantenimiento-1-o-l/"
+  },
+  "oficial/a de jardineria 5 c.o.-p.i.v.": {
+    "nombre": "OFICIAL/A DE JARDINERIA 5 C.O.-P.I.V.",
+    "tipo": "C2",
+    "estado": "Pendiente apertura plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/oficial-a-de-jardineria-5-c-o-p-i-v/"
+  },
+  "inspector/a de transportes (1 o.l.)": {
+    "nombre": "INSPECTOR/A DE TRANSPORTES (1 O.L.)",
+    "tipo": "C1",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/inspector-a-de-transportes-1-o-l/"
+  },
+  "arquitecto/a tecnico/a (5 o.l.)": {
+    "nombre": "ARQUITECTO/A TECNICO/A (5 O.L.)",
+    "tipo": "A2",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/arquitecto-a-tecnico-a-5-o-l/"
+  },
+  "portero/a de grupo escolar (8 o.l.)": {
+    "nombre": "PORTERO/A DE GRUPO ESCOLAR (8 O.L.)",
+    "tipo": "OAP",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/portero-a-de-grupo-escolar-8-o-l/"
+  },
+  "ingeniero/a tecnico/a en topografia (1 ol)": {
+    "nombre": "INGENIERO/A TECNICO/A EN TOPOGRAFIA (1 OL)",
+    "tipo": "A2",
+    "estado": "Proceso en ejecución",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/ingeniero-a-tecnico-a-en-topografia-1-o-l/"
+  },
+  "tecnico/a auxiliar de informatica (1 ol)": {
+    "nombre": "TECNICO/A AUXILIAR DE INFORMATICA (1 OL)",
+    "tipo": "C1",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnico-a-auxiliar-de-informatica-1-o-l/"
+  },
+  "agente policia local 7 plazas (3 turno movilidad)": {
+    "nombre": "AGENTE POLICIA LOCAL 7 PLAZAS (3 TURNO MOVILIDAD)",
+    "tipo": "C1",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/7-plazas-de-agente-de-policia-local-4-turno-libre-y-3-turno-movilidad-3-movilidad/"
+  },
+  "monitor/a deportivo/a (2 ol)": {
+    "nombre": "MONITOR/A DEPORTIVO/A (2 OL)",
+    "tipo": "C1",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/monitor-a-deportivo-a-2-o-l/"
+  },
+  "tecnico/a especialista delineacion (1 co-piv)": {
+    "nombre": "TECNICO/A ESPECIALISTA DELINEACION (1 CO-PIV)",
+    "tipo": "B",
+    "estado": "Proceso en ejecución",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnico-a-especialista-delineacion-1-c-o-p-i-v"
+  },
+  "técnica/o especialista en delineación 4 o.l (2 libre ord. y 2 diversidad sensorial/física)": {
+    "nombre": "TÉCNICA/O ESPECIALISTA EN DELINEACIÓN 4 O.L (2 LIBRE ORD. Y 2 DIVERSIDAD SENSORIAL/FÍSICA)",
+    "tipo": "B",
+    "estado": "Proceso en ejecución",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnica-o-especialista-en-delineacion-4-o-l-2-turno-libre-y-2-diversidad-sensorial-fisica"
+  },
+  "enfermero/a del trabajo (1 ol)": {
+    "nombre": "ENFERMERO/A DEL TRABAJO (1 OL)",
+    "tipo": "A2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/enfermero-a-del-trabajo-1-o-l/"
+  },
+  "oficial/a de cementerio (1 co-piv)": {
+    "nombre": "OFICIAL/A DE CEMENTERIO (1 CO-PIV)",
+    "tipo": "C2",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/oficial-a-de-cementerio-1-c-o-p-i-v"
+  },
+  "administrativo/a a.g. (11 co - piv)": {
+    "nombre": "ADMINISTRATIVO/A A.G. (11 CO - PIV)",
+    "tipo": "C1",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/administrativo-a-a-g-11-c-o-p-i-v/"
+  },
+  "ayudante/a de albañileria (6 ol)": {
+    "nombre": "AYUDANTE/A DE ALBAÑILERIA (6 OL)",
+    "tipo": "OAP",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/ayudante-a-de-albanileria/"
+  },
+  "oficial/a de cerrajeria (1 ol)": {
+    "nombre": "OFICIAL/A DE CERRAJERIA (1 OL)",
+    "tipo": "C2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/oficial-a-de-cerrajeria-1-o-l/"
+  },
+  "agente policia local 7 plazas (4 turno libre)": {
+    "nombre": "AGENTE POLICIA LOCAL 7 PLAZAS (4 TURNO LIBRE)",
+    "tipo": "C1",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/7-plazas-de-agente-de-la-policia-local-4-libre/"
+  },
+  "arquitecto/a (2 ol)": {
+    "nombre": "ARQUITECTO/A (2 OL)",
+    "tipo": "A1",
+    "estado": "Proceso en ejecución",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/arquitecto-a-2-o-l"
+  },
+  "tecnica/o especialista educacion infantil (14 ol)": {
+    "nombre": "TECNICA/O ESPECIALISTA EDUCACION INFANTIL (14 OL)",
+    "tipo": "C1",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnico-especialista-educacion-infantil-14-o-l"
+  },
+  "funcionarizacion personal laboral (solo empleados municipales)": {
+    "nombre": "FUNCIONARIZACION PERSONAL LABORAL (SOLO EMPLEADOS MUNICIPALES)",
+    "tipo": "C1",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/funcionarizacion-personal-laboral/"
+  },
+  "tecnica/o media/o de informatica (1 ol)": {
+    "nombre": "TECNICA/O MEDIA/O DE INFORMATICA (1 OL)",
+    "tipo": "A2",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnica-o-media-o-de-informatica"
+  },
+  "tecnica/o superior de planificacion de recursos humanos (1 col)": {
+    "nombre": "TECNICA/O SUPERIOR DE PLANIFICACION DE RECURSOS HUMANOS (1 COL)",
+    "tipo": "A1",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnica-o-superior-de-planificacion-de-recursos-humanos-1-c-o-l"
+  },
+  "auxiliar tecnico/a de fiestas (1 ol)": {
+    "nombre": "AUXILIAR TECNICO/A DE FIESTAS (1 OL)",
+    "tipo": "C1",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/auxiliar-tecnico-fiestas-1-o-l"
+  },
+  "tecnico/a de gestion (1 co-piv)": {
+    "nombre": "TECNICO/A DE GESTION (1 CO-PIV)",
+    "tipo": "A2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnico-a-de-gestion-1-c-o-p-i-v"
+  },
+  "palmerera/o (4 col)": {
+    "nombre": "PALMERERA/O (4 COL)",
+    "tipo": "C2",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/palmerera-o-4-c-o-l-2"
+  },
+  "oficial/a de albañileria (7 col)": {
+    "nombre": "OFICIAL/A DE ALBAÑILERIA (7 COL)",
+    "tipo": "C2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/oficial-a-de-albanileria-7-c-o-l-2"
+  },
+  "monitor/a (1 col)": {
+    "nombre": "MONITOR/A (1 COL)",
+    "tipo": "C1",
+    "estado": "Proceso en ejecución",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/monitor-a-1-c-o-l"
+  },
+  "ingeniero/a tecnico/a industrial (2 col)": {
+    "nombre": "INGENIERO/A TECNICO/A INDUSTRIAL (2 COL)",
+    "tipo": "A2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/ingeniero-a-tecnico-a-industrial-2-c-o-l"
+  },
+  "conductor/a de mantenimiento (7 col)": {
+    "nombre": "CONDUCTOR/A DE MANTENIMIENTO (7 COL)",
+    "tipo": "C2",
+    "estado": "Proceso en ejecución",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/conductor-a-de-mantenimiento-4-c-o-l"
+  },
+  "agente movilidad urbana (5 col)": {
+    "nombre": "AGENTE MOVILIDAD URBANA (5 COL)",
+    "tipo": "C2",
+    "estado": "Proceso en ejecución",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/agente-movilidad-urbana-turno-libre"
+  },
+  "administrativa/o a.g. 11 plazas (8 turno libre y 3 turno discapacidad)": {
+    "nombre": "ADMINISTRATIVA/O A.G. 11 PLAZAS (8 TURNO LIBRE Y 3 TURNO DISCAPACIDAD)",
+    "tipo": "C1",
+    "estado": "Proceso en ejecución",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/administrativo-a-g-11-c-o-l/"
+  },
+  "medico/a del trabajo (1 ol)": {
+    "nombre": "MEDICO/A DEL TRABAJO (1 OL)",
+    "tipo": "A1",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/medico-a-del-trabajo-1-o-l/"
+  },
+  "volante de escuelas infantiles (1 col)": {
+    "nombre": "VOLANTE DE ESCUELAS INFANTILES (1 COL)",
+    "tipo": "C2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/volante-de-escuelas-infantiles-3/"
+  },
+  "tecnica/o medio de promocion economica (1 col)": {
+    "nombre": "TECNICA/O MEDIO DE PROMOCION ECONOMICA (1 COL)",
+    "tipo": "A2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnica-o-medio-de-promocion-economica-1-c-o-l"
+  },
+  "técnica/o de gestión de museos (3 col)": {
+    "nombre": "TÉCNICA/O DE GESTIÓN DE MUSEOS (3 COL)",
+    "tipo": "A2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnica-o-de-gestion-de-museos-1-c-o-l"
+  },
+  "técnica/o auxiliar de deportes (1 col)": {
+    "nombre": "TÉCNICA/O AUXILIAR DE DEPORTES (1 COL)",
+    "tipo": "C1",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnica-o-auxiliar-de-deportes-1-c-o-l"
+  },
+  "técnica/o de administración general (2 ol)": {
+    "nombre": "TÉCNICA/O DE ADMINISTRACIÓN GENERAL (2 OL)",
+    "tipo": "A1",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnica-o-de-administracion-general-2-o-l-2"
+  },
+  "oficial/a de señalización y mobiliario urbano (1 col)": {
+    "nombre": "OFICIAL/A DE SEÑALIZACIÓN Y MOBILIARIO URBANO (1 COL)",
+    "tipo": "C2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/oficial-a-de-senalizacion-y-mobiliario-urbano-1-c-o-l"
+  },
+  "oficial/a de pintura (2 col)": {
+    "nombre": "OFICIAL/A DE PINTURA (2 COL)",
+    "tipo": "C2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/oficial-a-de-pintura-2-c-o-l/"
+  },
+  "oficial/a de fontaneria (4 col)": {
+    "nombre": "OFICIAL/A DE FONTANERIA (4 COL)",
+    "tipo": "C2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/oficial-a-de-fontaneria-3-c-o-l/"
+  },
+  "oficial/a de carpintería (4 col)": {
+    "nombre": "OFICIAL/A DE CARPINTERÍA (4 COL)",
+    "tipo": "C2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/oficial-a-de-carpinteria-4-c-o-l"
+  },
+  "oficial/a de electricidad (6 col)": {
+    "nombre": "OFICIAL/A DE ELECTRICIDAD (6 COL)",
+    "tipo": "C2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/oficial-a-de-electricidad-2/"
+  },
+  "oficial/a de cocina y despensa (2 col)": {
+    "nombre": "OFICIAL/A DE COCINA Y DESPENSA (2 COL)",
+    "tipo": "C2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/oficial-a-de-cocina-y-despensa-2/"
+  },
+  "intendente [del cuerpo de la policía de elche] (2 co-pi)": {
+    "nombre": "INTENDENTE [DEL CUERPO DE LA POLICÍA DE ELCHE] (2 CO-PI)",
+    "tipo": "A2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/intendente-del-cuerpo-de-la-policia-de-elche-2-c-o-p-i"
+  },
+  "encargada/o [instalaciones deportivas] (4 co-piv)": {
+    "nombre": "ENCARGADA/O [INSTALACIONES DEPORTIVAS] (4 CO-PIV)",
+    "tipo": "C1",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/encargada-o-instalaciones-deportivas-4-c-o-p-i-v"
+  },
+  "auxiliar de instalaciones deportivas (18 col)": {
+    "nombre": "AUXILIAR DE INSTALACIONES DEPORTIVAS (18 COL)",
+    "tipo": "C2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/auxiliar-de-instalaciones-deportivas-11-c-o-l"
+  },
+  "oficial/a mecanica de vehiculos (3 ol)": {
+    "nombre": "OFICIAL/A MECANICA DE VEHICULOS (3 OL)",
+    "tipo": "C2",
+    "estado": "Proceso en ejecución",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/oficial-a-mecanica-de-vehiculos/"
+  },
+  "letrado/a de urbanismo (bolsa)": {
+    "nombre": "LETRADO/A DE URBANISMO (BOLSA)",
+    "tipo": "A1",
+    "estado": "Pendiente apertura plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/letrado-a-de-urbanismo-bolsa/"
+  },
+  "ayudante (bolsa)": {
+    "nombre": "AYUDANTE (BOLSA)",
+    "tipo": "OAP",
+    "estado": "Abierto plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/ayudante-bolsa/"
+  },
+  "ingeniero/a de telecomunicaciones (bolsa)": {
+    "nombre": "INGENIERO/A DE TELECOMUNICACIONES (BOLSA)",
+    "tipo": "A1",
+    "estado": "Cerrado plazo instancias",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/ingeniero-a-de-telecomunicaciones/"
+  },
+  "terapeuta ocupacional (bolsa)": {
+    "nombre": "TERAPEUTA OCUPACIONAL (BOLSA)",
+    "tipo": "A2",
+    "estado": "Proceso en ejecución",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/terapeuta-ocupacional-bolsa/"
+  },
+  "tecnico/a auxiliar de transparencia (bolsa)": {
+    "nombre": "TECNICO/A AUXILIAR DE TRANSPARENCIA (BOLSA)",
+    "tipo": "C1",
+    "estado": "Proceso en ejecución",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnico-a-auxiliar-de-transparencia-bolsa"
+  },
+  "tecnicos/as de administracion general (bolsa)": {
+    "nombre": "TECNICOS/AS DE ADMINISTRACION GENERAL (BOLSA)",
+    "tipo": "A1",
+    "estado": "Proceso en ejecución",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnicos-as-de-administracion-general-bolsa-2"
+  },
+  "professor/a de valencia": {
+    "nombre": "PROFESSOR/A DE VALENCIA",
+    "tipo": "A2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/professor-a-de-valencia"
+  },
+  "maestro/a de educación primaria": {
+    "nombre": "MAESTRO/A DE EDUCACIÓN PRIMARIA",
+    "tipo": "A2",
+    "estado": "Proceso finalizado",
+    "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/maestro-a-de-educacion-primaria"
+  }
+}
