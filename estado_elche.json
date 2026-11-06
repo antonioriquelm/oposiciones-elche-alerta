@@ -2,7 +2,7 @@
   "inspector/a de infracciones urbanisticas 2 o.l.": {
     "nombre": "INSPECTOR/A DE INFRACCIONES URBANISTICAS 2 O.L.",
     "tipo": "C1",
-    "estado": "Abierto plazo instancias",
+    "estado": "Cerrado plazo instancias",
     "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/inspector-de-infracciones-urbanisticas-2-o-l"
   },
   "inspector/a de rentas 1 o.l.": {
@@ -38,7 +38,7 @@
   "inspector/a de mantenimiento 1 o.l.": {
     "nombre": "INSPECTOR/A DE MANTENIMIENTO 1 O.L.",
     "tipo": "C1",
-    "estado": "Cerrado plazo instancias",
+    "estado": "Proceso en ejecución",
     "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/inspector-a-de-mantenimiento-1-o-l/"
   },
   "oficial/a de jardineria 13 c.o.-p.i.v.": {
@@ -155,8 +155,8 @@
     "estado": "Proceso finalizado",
     "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/funcionarizacion-personal-laboral/"
   },
-  "tecnica/o media/o de informatica (2 ol)": {
-    "nombre": "TECNICA/O MEDIA/O DE INFORMATICA (2 OL)",
+  "tecnica/o media/o de informatica (1 ol)": {
+    "nombre": "TECNICA/O MEDIA/O DE INFORMATICA (1 OL)",
     "tipo": "A2",
     "estado": "Cerrado plazo instancias",
     "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/tecnica-o-media-o-de-informatica"
