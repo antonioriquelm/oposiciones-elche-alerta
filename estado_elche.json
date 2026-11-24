@@ -194,7 +194,7 @@
   "monitor/a (1 col)": {
     "nombre": "MONITOR/A (1 COL)",
     "tipo": "C1",
-    "estado": "Proceso en ejecución",
+    "estado": "Proceso finalizado",
     "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/monitor-a-1-c-o-l"
   },
   "ingeniero/a tecnico/a industrial (2 col)": {
@@ -314,7 +314,7 @@
   "oficial/a mecanica de vehiculos (3 ol)": {
     "nombre": "OFICIAL/A MECANICA DE VEHICULOS (3 OL)",
     "tipo": "C2",
-    "estado": "Proceso en ejecución",
+    "estado": "Proceso finalizado",
     "enlace": "https://www.elche.es/recursos-humanos/oferta-publica-de-empleo/oficial-a-mecanica-de-vehiculos/"
   },
   "psicologo de la upcca (bolsa)": {
